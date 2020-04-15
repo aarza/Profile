@@ -1,0 +1,15 @@
+.contact-nav {
+    position: fixed;
+    top: 25%;
+    right: .1%;
+    background-color: #00004d;
+    width: 10%;
+    border-radius: 5%;
+    border: solid 3px #232f3e;
+}
+.icon {
+    position: relative;
+    left: 25%;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}

@@ -222,6 +222,7 @@ header.masthead .intro-text .intro-heading {
   }
 }
 
+
 .service-heading {
   margin: 15px 0;
   text-transform: none;
@@ -681,3 +682,4 @@ ul.social-buttons li a {
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #fed136;
 }
+
